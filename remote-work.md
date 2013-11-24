@@ -58,7 +58,7 @@ Meaning, the entire communication between the team happens asynchronously, you c
 
 #### Flint
 
-![image](http://f.cl.ly/items/2o2f2c0W3i0W221n3O3f/Image%202013.11.24%2010%3A04%3A45%20AM.png)
+![Flint](http://f.cl.ly/items/2o2f2c0W3i0W221n3O3f/Image%202013.11.24%2010%3A04%3A45%20AM.png)
 
 We **don't** use the web version of Basecamp, because for one you have to open up a browser, you have to dedicate a tab and if you close it it's gone (and it might take you some time to notice).
 

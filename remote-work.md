@@ -4,7 +4,7 @@ Remote work has never been more in-the-news, wherever I go on the internet, I se
 
 ## History
 
-When I started my company 4 years ago, I knew that remote work will be a huge part of the work environment, and I was explaining it to my clients.
+When I started my company (Kenso) 4 years ago, I knew that remote work will be a huge part of the work environment, and I was explaining it to my clients.
 
 Back then, remote work was even less popular and wide-spread than it is today, so it was hard at times, but the system we developed in the company proved itself useful to clients and after a week or two every single client that was having doubts was completely sold.
 
@@ -14,7 +14,7 @@ When the company joined the Tikal family, I was really happy that this remote wo
 
 Here at Tikal we are working with remote clients and remote teams (which typically come together).
 
-For example, right now we have a client from the US (Seattle), the Tikal team working with the client consists of 3 engineers (2 women b.t.w) working out of Israel. The client also has other remote employees from all over the world and the Tikal team needs to work in synergy inside this situation.
+Let's take one of our US clients for example, the Tikal working with the client consists of 3 engineers (2 women b.t.w) working out of Israel. The client also has other remote employees from all over the world and the Tikal team needs to work in synergy inside this situation.
 
 ## How it's done?
 
@@ -22,7 +22,7 @@ The way we do it is pretty simple and straightforward, however I have not seen a
 
 ## The system
 
-The system we developed and refined here consists of a few categories details below
+The system we developed and refined here consists of a few categories details below.
 
 ### Birds eye view
 
@@ -44,9 +44,7 @@ Really not much to say here, the client must have control on what's happening to
 
 Both virtual tooling and physical tooling are crucial for the system to work, as you can see detailed in the post
 
-
 ## Virtual Tools
-
 
 ### Chatroom
 
@@ -251,8 +249,7 @@ For example, I have 2 routers, 2 ISP's and 2 lines, I am never offline for more 
 
 If one of my routers fail, I just replace it, if one ISP fails, I just have another one already predefined in the router for a fallback.
 
-I also have a backup computer already predefined to work.
-
+I also have a backup computer already predefined to work, this might be an overkill for a lot of situation but it's definitely good use for an older generation Macbook.
 
 ### Putting it all together
 

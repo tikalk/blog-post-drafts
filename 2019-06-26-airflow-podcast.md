@@ -12,7 +12,7 @@ During the day the known podcaster host Jeff Meyerson, interviewed me on airflow
 
 To listen to the podcast, head on over to: [https://softwareengineeringdaily.com/2019/06/25/airflow-in-practice-with-chaim-turkel/](https://softwareengineeringdaily.com/2019/06/25/airflow-in-practice-with-chaim-turkel/)
 
-![]({{site.baseurl}}/https://photos.app.goo.gl/ghCtzY4RGeyAbHHG7)
+![](https://photos.app.goo.gl/ghCtzY4RGeyAbHHG7)
 
 As both a participant and lecturer for this day, 
 
